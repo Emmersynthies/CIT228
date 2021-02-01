@@ -4,6 +4,7 @@ buffet = ("Lobster", "Steak", "Shrimp","Salmon", "Chicken")
 for food in buffet:
     print(food)
 
+
 print("^^^^^^^^^^New Menu^^^^^^^^^^^^^")
 buffet = ("Ice Cream", "Steak", "Roast Beef","Cake", "Soup")
 for menu in buffet:

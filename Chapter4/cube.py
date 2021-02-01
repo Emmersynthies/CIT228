@@ -5,5 +5,6 @@ for cube in range(1-10):
     cube.append(cube**3)
     print(cube)
 
+
 cube = [cube**3 for cube in range(1-10)]
 print(cube)

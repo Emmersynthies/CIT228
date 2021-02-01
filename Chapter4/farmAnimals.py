@@ -8,6 +8,7 @@ secondList.append("Cattle")
 secondList.sort()
 firstList.sort()
 print(firstList)
+
 print("-----Second List------")
 print(secondList)
 
