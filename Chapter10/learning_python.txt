@@ -1,0 +1,3 @@
+In Python you can create lists.
+In Python you can learn to programing and read others.
+In Python you can put information together the way you want.
