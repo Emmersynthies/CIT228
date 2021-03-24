@@ -11,6 +11,7 @@ class Ship:
         self.rect.midbottom = self.screen_rect.midbottom
         self.x = float(self.rect.x)
 
+
         self.moving_right = False
         self.moving_left = False
 

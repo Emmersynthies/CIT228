@@ -10,7 +10,7 @@ from alien import Alien
 
 class AlienInvasion:
 
-    def _init_(self):
+    def __init__(self):
         pygame.init()
         self.settings = Settings()
 
@@ -172,8 +172,7 @@ class AlienInvasion:
 
 
 
-
-
-    if _name_ == 'main':
-        ai = AlienInvasion()
+   if __name__ == "__main__":
+        
+        ai=AlienInvasion()
         ai.run_game()
